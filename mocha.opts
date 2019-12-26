@@ -2,3 +2,4 @@
 --slow 2000
 --timeout 15000
 request.spec.ts
+dataProvider.spec.ts
